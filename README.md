@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/jb-rgb/jb-rgb/main/oracle.PNG">
 
-<h1 align="center">Hi 👋, I'm Jorge Barahona</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Signika&weight=700&size=32&pause=1000&color=9C29F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jorge+Barahona" alt="Typing SVG" /></a>
+</div>
 <h3 align="center">I am a future computer engineer, currently a student at the Universidad Tecnologica de la Mixteca (UTM). I like programming and collaborating in projects that help to improve and evolve the world of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jb-rgb&label=Profile%20views&color=880eb4&style=flat" alt="jb-rgb" /> </p>
