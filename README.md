@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jorge-arturo-barahona-de-la-cruz-48583b271/" target="_blank">
-    <img src="https://raw.githubusercontent.com/jb-rgb/jb-rgb/main/logos/linkedin-icon.svg" height="35" alt="Linkedin logo">
+    <img src="./logos/linkedin-icon.svg" height="35" alt="Linkedin logo">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
