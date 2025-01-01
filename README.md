@@ -19,81 +19,81 @@
 
 <table align="center">
     <tr>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>C++</br>
+            <br>C++
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>C#</br>
+            <br>C#
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>JavaScript</br>
+            <br>JavaScript
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>TypeScript</br>
+            <br>TypeScript
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>React</br>
+            <br>React
         </td>
     </tr>
     <tr>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>Prettier</br>
+            <br>Prettier
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>Python</br>
+            <br>Python
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>GitHub</br>
+            <br>GitHub
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>Docker</br>
+            <br>Docker
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
             </div>
         </td>
-        <br>AWS</br>
+        <br>AWS
     </tr>
     <tr>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>MySQL</br>
+            <br>MySQL
         </td>
-        <td>
+        <td aling="center" width="128">
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
             </div>
-            <br>REST API</br>
+            <br>REST API
         </td>
     </tr>
     <!-- <tr></tr> -->
