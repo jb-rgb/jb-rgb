@@ -15,7 +15,7 @@
     <img src="./logos/linkedin-icon.svg" height="35" alt="Linkedin logo">
 </a>
 
-<h3 align="left">Languages, Frameworks and Tools:</h3>
+<!-- <h3 align="left">Languages, Frameworks and Tools:</h3>
 
 <table align="center">
     <tr>
@@ -97,6 +97,6 @@
         </td>
     </tr>
     <!-- <tr></tr> -->
-</table>
+<!-- </table> --> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jb-rgb&label=Profile%20views&color=880eb4&style=flat" alt="jb-rgb" /> </p>
