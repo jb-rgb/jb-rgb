@@ -78,14 +78,13 @@
                 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
             </div>
         </td>
-    </tr>
-    <tr>
         <td>
             <div style="display: flex; align-items: flex-start;">
                 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
             </div>
         </td>
     </tr>
+    <!-- <tr></tr> -->
 </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jb-rgb&label=Profile%20views&color=880eb4&style=flat" alt="jb-rgb" /> </p>
