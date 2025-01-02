@@ -13,7 +13,7 @@
 # Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/jorge-arturo-barahona-de-la-cruz-48583b271/" target="_blank">
-    <img src="logos/linkedin-icon.svg" height="35" alt="LinkedIn logo">
+    <img src="./logos/linkedin-icon.svg" height="35" alt="LinkedIn logo">
   </a>
 </p>
 
@@ -45,11 +45,19 @@ Here are some of the technologies and tools I use:
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
             <br>React
         </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="65" height="65" />
+            <br>Vue.js
+        </td>
     </tr>
     <tr>
         <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
             <br>Python
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
+            <br>Git
         </td>
         <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
@@ -70,8 +78,54 @@ Here are some of the technologies and tools I use:
     </tr>
     <tr>
         <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
+            <br>PostgreSQL
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65" />
+            <br>Firebase
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="65" height="65" />
+            <br>Express.js
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65" />
+            <br>Next.js
+        </td>
+        <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
             <br>REST API
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="65" height="65" />
+            <br>Redis
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="65" height="65" />
+            <br>Jest
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/selenium-icon.svg" alt="Selenium" width="65" height="65" />
+            <br>Selenium
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="65" height="65" />
+            <br>Vite
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="NestJS" width="65" height="65" />
+            <br>NestJS
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/expressjs-icon.svg" alt="Express.js" width="65" height="65" />
+            <br>Express.js
         </td>
     </tr>
 </table>
@@ -103,4 +157,3 @@ Feel free to explore and collaborate!
 - 📝 **Publications & Blogs:** You can check out my blog for articles on technology and my journey.
 
 Thanks for visiting my profile! Feel free to reach out, and let's collaborate!
-
