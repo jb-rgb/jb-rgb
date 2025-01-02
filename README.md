@@ -13,7 +13,7 @@
 # Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/jorge-arturo-barahona-de-la-cruz-48583b271/" target="_blank">
-    <img src="./logos/linkedin-icon.svg" height="35" alt="LinkedIn logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_2013.svg" height="35" alt="LinkedIn logo">
   </a>
 </p>
 
@@ -46,8 +46,8 @@ Here are some of the technologies and tools I use:
             <br>React
         </td>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="65" height="65" />
-            <br>Vue.js
+            <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring" width="65" height="65" />
+            <br>Spring
         </td>
     </tr>
     <tr>
@@ -56,20 +56,20 @@ Here are some of the technologies and tools I use:
             <br>Python
         </td>
         <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+            <br>AWS
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+            <br>Java
+        </td>
+        <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
             <br>Git
         </td>
         <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
             <br>GitHub
-        </td>
-        <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-            <br>Docker
-        </td>
-        <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-            <br>AWS
         </td>
         <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
@@ -82,16 +82,16 @@ Here are some of the technologies and tools I use:
             <br>PostgreSQL
         </td>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65" />
-            <br>Firebase
-        </td>
-        <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="65" height="65" />
             <br>Express.js
         </td>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="65" height="65" />
-            <br>Next.js
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+            <br>React
+        </td>
+        <td align="center" width="128">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+            <br>Docker
         </td>
         <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
@@ -100,32 +100,6 @@ Here are some of the technologies and tools I use:
         <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="65" height="65" />
             <br>Redis
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
-            <br>MongoDB
-        </td>
-        <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="65" height="65" />
-            <br>Jest
-        </td>
-        <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/selenium-icon.svg" alt="Selenium" width="65" height="65" />
-            <br>Selenium
-        </td>
-        <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="65" height="65" />
-            <br>Vite
-        </td>
-        <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="NestJS" width="65" height="65" />
-            <br>NestJS
-        </td>
-        <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/expressjs-icon.svg" alt="Express.js" width="65" height="65" />
-            <br>Express.js
         </td>
     </tr>
 </table>
@@ -144,7 +118,11 @@ Here are some of the technologies and tools I use:
 
 # 🚀 Projects
 
-- **Machine Learning and Data Science Projects**: Currently, I'm building models to understand and predict patterns using real-world data. You can find my projects in my repositories.
+- **Machine Learning and Data Science (Research)**: Currently, I'm exploring the fields of **Machine Learning** and **Data Science**, with a specific interest in **Deep Learning**. My research focuses on understanding the core principles and applications of these areas.
+
+- **Java & Spring Projects**: I am working with **Java** and **Spring** to build robust, scalable web applications. 
+
+- **React & AWS Projects**: Using **React** to build dynamic and responsive frontend applications, and **AWS** for cloud solutions and deployments.
 
 Feel free to explore and collaborate!
 
@@ -153,7 +131,7 @@ Feel free to explore and collaborate!
 # 📚 Stats & Contributions
 
 - 💻 **Code Contribution:** I contribute regularly to personal and collaborative projects.
-- 🧠 **Learning Path:** Currently focusing on expanding my knowledge in Machine Learning and Data Science.
-- 📝 **Publications & Blogs:** You can check out my blog for articles on technology and my journey.
+- 🧠 **Learning Path:** Currently focusing on expanding my knowledge in **Machine Learning**, **Data Science**, and **Deep Learning**.
+- 📝 **Publications & Blogs:** While I am focused on research, I am not yet publishing articles but continuously learning to advance in these fields.
 
 Thanks for visiting my profile! Feel free to reach out, and let's collaborate!
