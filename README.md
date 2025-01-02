@@ -13,7 +13,7 @@
 # Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/jorge-arturo-barahona-de-la-cruz-48583b271/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_2013.svg" height="35" alt="LinkedIn logo">
+    <img src="./logos/linkedin-icon.svg" height="35" alt="LinkedIn logo">
   </a>
 </p>
 
