@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Machine Learning and Data Science**.
 - 📫 You can reach me via email: [jb30085@gmail.com](mailto:jb30085@gmail.com)
 
+# Connect with me:
 <p align="center">
     <a href="https://www.linkedin.com/in/jorge-arturo-barahona-de-la-cruz-48583b271/" target="_blank">
         <img src="./logos/linkedin-icon.svg" width="64" height="64" alt="LinkedIn logo" style="margin: 0 10px;">
