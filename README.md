@@ -15,15 +15,15 @@
     <a href="https://www.linkedin.com/in/jorge-arturo-barahona-de-la-cruz-48583b271/" target="_blank">
         <img src="./logos/linkedin-icon.svg" width="64" height="64" alt="LinkedIn logo">
     </a>
-    <span>&nbsp;&nbsp;</span>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <a href="https://www.instagram.com/_.jorge_b._/" target="_blank">
         <img src="./logos/instagram-2016-5.svg" width="64" height="64" alt="Instagram logo">
     </a>
-    <span>&nbsp;&nbsp;</span> 
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
     <a href="https://wa.me/529532120913?text=Hello,%20how%20are%20you?%20How%20can%20I%20help%20you?" target="_blank">
         <img src="./logos/whatsapp-8.svg" width="64" height="64" alt="WhatsApp logo">
     </a>
-    <span>&nbsp;&nbsp;</span> 
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
     <a href="https://www.facebook.com/jorgearturo.barahonadelacruz" target="_blank">
         <img src="./logos/facebook-3-3.svg" width="64" height="64" alt="Facebook logo">
     </a>
