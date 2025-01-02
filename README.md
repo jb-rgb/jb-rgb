@@ -10,19 +10,18 @@
 - 🌱 I’m currently learning **Machine Learning and Data Science**.
 - 📫 You can reach me via email: [jb30085@gmail.com](mailto:jb30085@gmail.com)
 
-# Connect with me:
 <p align="center">
     <a href="https://www.linkedin.com/in/jorge-arturo-barahona-de-la-cruz-48583b271/" target="_blank">
-        <img src="./logos/linkedin-icon.svg" width="64" height="64" alt="LinkedIn logo">
+        <img src="./logos/linkedin-icon.svg" width="64" height="64" alt="LinkedIn logo" style="margin: 0 10px;">
     </a>
     <a href="https://www.instagram.com/_.jorge_b._/" target="_blank">
-        <img src="./logos/instagram-2016-5.svg" width="64" height="64" alt="Instagram logo">
+        <img src="./logos/instagram-2016-5.svg" width="64" height="64" alt="Instagram logo" style="margin: 0 10px;">
     </a>
     <a href="https://wa.me/529532120913?text=Hello,%20how%20are%20you?%20How%20can%20I%20help%20you?" target="_blank">
-        <img src="./logos/whatsapp-8.svg" width="64" height="64" alt="WhatsApp logo">
+        <img src="./logos/whatsapp-8.svg" width="64" height="64" alt="WhatsApp logo" style="margin: 0 10px;">
     </a>
     <a href="https://www.facebook.com/jorgearturo.barahonadelacruz" target="_blank">
-        <img src="./logos/facebook-3-3.svg" width="64" height="64" alt="Facebook logo">
+        <img src="./logos/facebook-3-3.svg" width="64" height="64" alt="Facebook logo" style="margin: 0 10px;">
     </a>
 </p>
 
