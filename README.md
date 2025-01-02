@@ -46,8 +46,8 @@ Here are some of the technologies and tools I use:
             <br>React
         </td>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring" width="65" height="65" />
-            <br>Spring
+            <img src="./logos/spring-boot-1.svg" alt="Spring Boot" width="65" height="65" />
+            <br>Spring Boot
         </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ Here are some of the technologies and tools I use:
             <br>Java
         </td>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
+            <img src="./logos/git-icon.svg" alt="Git" width="65" height="65" />
             <br>Git
         </td>
         <td align="center" width="128">
@@ -78,12 +78,12 @@ Here are some of the technologies and tools I use:
     </tr>
     <tr>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" height="65" />
+            <img src="./logos/postgresql.svg" alt="PostgreSQL" width="65" height="65" />
             <br>PostgreSQL
         </td>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="65" height="65" />
-            <br>Express.js
+            <img src="./logos/bootstrap-5-1.svg" alt="Bootstrap" width="65" height="65" />
+            <br>Bootstrap
         </td>
         <td align="center" width="128">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
@@ -98,8 +98,22 @@ Here are some of the technologies and tools I use:
             <br>REST API
         </td>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="65" height="65" />
-            <br>Redis
+            <img src="./logos/visual-studio-code-1.svg" alt="VS Code" width="65" height="65" />
+            <br>VS Code
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="128">
+            <img src="./logos/css-3.svg" alt="CSS" width="65" height="65" />
+            <br>CSS
+        </td>
+        <td align="center" width="128">
+            <img src="./logos/html-1.svg" alt="HTML" width="65" height="65" />
+            <br>HTML
+        </td>
+        <td align="center" width="128">
+            <img src="./logos/nodejs-1.svg" alt="Node.js" width="65" height="65" />
+            <br>Node.js
         </td>
     </tr>
 </table>
@@ -120,7 +134,7 @@ Here are some of the technologies and tools I use:
 
 - **Machine Learning and Data Science (Research)**: Currently, I'm exploring the fields of **Machine Learning** and **Data Science**, with a specific interest in **Deep Learning**. My research focuses on understanding the core principles and applications of these areas.
 
-- **Java & Spring Projects**: I am working with **Java** and **Spring** to build robust, scalable web applications. 
+- **Java & Spring Boot Projects**: I am working with **Java** and **Spring Boot** to build robust, scalable web applications. 
 
 - **React & AWS Projects**: Using **React** to build dynamic and responsive frontend applications, and **AWS** for cloud solutions and deployments.
 
