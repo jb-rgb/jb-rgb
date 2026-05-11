@@ -136,9 +136,12 @@ Here are some of the technologies and tools I use:
 
   <br><br>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jb-rgb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jorge's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jb-rgb&theme=tokyonight" alt="GitHub Profile Details" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-rgb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br><br>
+
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jb-rgb&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jb-rgb&theme=tokyonight" alt="Repositories per Language" />
 
   <br><br>
 
