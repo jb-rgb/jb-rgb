@@ -54,12 +54,12 @@ Here are some of the technologies and tools I use:
             <br>TypeScript
         </td>
         <td align="center" width="128">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-            <br>React
-        </td>
-        <td align="center" width="128">
             <img src="./logos/spring-boot-1.svg" alt="Spring Boot" width="65" height="65" />
             <br>Spring Boot
+        </td>
+        <td align="center" width="128">
+            <img src="./logos/nodejs-1.svg" alt="Node.js" width="65" height="65" />
+            <br>Node.js
         </td>
     </tr>
     <tr>
@@ -123,10 +123,6 @@ Here are some of the technologies and tools I use:
             <img src="./logos/html-1.svg" alt="HTML" width="65" height="65" />
             <br>HTML
         </td>
-        <td align="center" width="128">
-            <img src="./logos/nodejs-1.svg" alt="Node.js" width="65" height="65" />
-            <br>Node.js
-        </td>
     </tr>
 </table>
 
@@ -135,9 +131,19 @@ Here are some of the technologies and tools I use:
 # 📈 GitHub Stats
 
 <div align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jb-rgb&label=Profile%20views&color=880eb4&style=flat" alt="jb-rgb" /> </p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jb-rgb&show_icons=true&count_private=true&hide=prs&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-rgb&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+
+  <img src="https://komarev.com/ghpvc/?username=jb-rgb&label=Profile%20Views&color=9C29F7&style=flat" alt="Profile views" />
+
+  <br><br>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jb-rgb&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jorge's GitHub stats" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-rgb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jb-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
