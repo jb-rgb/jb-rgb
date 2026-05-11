@@ -5,9 +5,11 @@
 </div>
 
 # About Me
-### I am a future computer engineer, currently a student at the Universidad Tecnologica de la Mixteca (UTM). I enjoy programming and collaborating on projects that help improve and evolve the world of technology.
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**.
+### I am a Computer Engineer with experience as a Backend Developer using Java and Spring Boot. I enjoy building robust, scalable, and maintainable software solutions, collaborating on projects, and continuously learning new technologies that contribute to the evolution of the tech industry.
+
+- 💼 I have experience in **Backend Development** with **Java** and **Spring Boot**.
+- 🌱 My future focus is on **Data Science**, with a strong interest in **Machine Learning** and **Deep Learning**.
 - 📫 You can reach me via email: [jb30085@gmail.com](mailto:jb30085@gmail.com)
 
 # Connect with me:
@@ -165,8 +167,8 @@ Feel free to explore and collaborate!
 
 # 📚 Stats & Contributions
 
-- 💻 **Code Contribution:** I contribute regularly to personal and collaborative projects.
-- 🧠 **Learning Path:** Currently focusing on expanding my knowledge in **Machine Learning**, **Data Science**, and **Deep Learning**.
-- 📝 **Publications & Blogs:** While I am focused on research, I am not yet publishing articles but continuously learning to advance in these fields.
+- 💻 **Backend Development:** Experience building backend solutions with **Java**, **Spring Boot**, REST APIs, and relational databases.
+- 🧠 **Learning Path:** Currently focusing on strengthening my knowledge in **Data Science**, **Machine Learning**, and **Deep Learning**.
+- 🚀 **Professional Goal:** To combine software engineering and data-driven solutions to build impactful technology products.
 
 Thanks for visiting my profile! Feel free to reach out, and let's collaborate!
